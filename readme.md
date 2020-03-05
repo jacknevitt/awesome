@@ -1,15 +1,17 @@
-# Contents
+# Awesome List by Jack Nevitt
+
+## Contents
 
 1. [Languages](#languages)
 2. [Front End](#front-end)
 
-# Languages
+## Languages
 
 1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    - [Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 2. [TypeScript](https://www.typescriptlang.org/docs/home.html)
 
-# Front End
+## Front End
 
 1. [Libraries](#libraries)
 2. [Frameworks](#frameworks)
