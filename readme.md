@@ -6,6 +6,7 @@
 2. [Libraries](#libraries)
 3. [Frameworks](#frameworks)
 4. [Browser APIs](#browser-apis)
+5. [Assets](#assets)
 
 ## Languages
 
@@ -28,3 +29,17 @@
 1. [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) - Large data storage in the browser
    - [idb](https://github.com/jakearchibald/idb) - Promise API for IndexedDB
 2. [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) - Basic data storage in the browser
+
+## Assets
+
+1. [Images](#images)
+2. [Fonts](#fonts)
+
+### Images
+
+1. [Unsplash Source](https://source.unsplash.com/) - Simple embedding for Unsplash photos
+
+### Fonts
+
+1. [Google Fonts](https://fonts.google.com/) - Free use open source typefaces
+2. [Adobe Fonts](https://fonts.adobe.com/) - Personal and Commercial use fonts with Adobe CC
