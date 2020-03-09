@@ -29,6 +29,8 @@
 1. [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) - Large data storage in the browser
    - [idb](https://github.com/jakearchibald/idb) - Promise API for IndexedDB
 2. [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) - Basic data storage in the browser
+3. Service Workers
+   - [Serve A Custom Offline Page](https://deanhume.com/create-a-really-really-simple-offline-page-using-service-workers/)
 
 ## Assets
 
