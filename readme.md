@@ -25,6 +25,7 @@
 ## Libraries
 
 1. [React](https://reactjs.org/) - Component building library
+1. [Framer Motion](https://www.framer.com/motion/) - Animation library
 
 ## Frameworks
 
