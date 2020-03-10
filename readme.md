@@ -15,7 +15,8 @@
 1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    - [Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator)
 2. [TypeScript](https://www.typescriptlang.org/docs/home.html)
-
+3. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+   - [CSS Triggers](https://csstriggers.com/) - Some css is more intesne for browsers to update and render
 
 ## Libraries
 
