@@ -48,6 +48,7 @@
 
 1. [Google Fonts](https://fonts.google.com/) - Free use open source typefaces
 2. [Adobe Fonts](https://fonts.adobe.com/) - Personal and Commercial use fonts with Adobe CC
+3. [Fira Code](https://github.com/tonsky/FiraCode) - Monospace font with ligatures
 
 ## Accessibility
 
