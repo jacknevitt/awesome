@@ -21,6 +21,8 @@
 3. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
    - [CSS Triggers](https://csstriggers.com/) - Some css is more intesne for browsers to update and render
    - [CSS Containment](https://developers.google.com/web/updates/2016/06/css-containment) - Add scope to CSS elements for performance optimisations
+   - [Dark Mode](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) - Media queries to detect system colour theme
+     - [Dark Mode Favicons](https://css-tricks.com/dark-mode-favicons/) - Support Dark Mode in your favicon
 
 ## Libraries
 
