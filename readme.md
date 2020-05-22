@@ -41,6 +41,7 @@
 2. [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) - Basic data storage in the browser
 3. Service Workers
    - [Serve A Custom Offline Page](https://deanhume.com/create-a-really-really-simple-offline-page-using-service-workers/)
+4. [Push](https://developers.google.com/web/fundamentals/push-notifications/how-push-works) - Subscribe to push to receive notifications on web
 
 ## Assets
 
