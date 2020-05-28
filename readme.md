@@ -66,6 +66,7 @@
 ## Accessibility
 
 1. [Colour Contrast](https://accessible-colors.com/)
+2. [Prefers Reduced Motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion) - handle cases where users prefer fewer animations
 
 ## Testing
 
